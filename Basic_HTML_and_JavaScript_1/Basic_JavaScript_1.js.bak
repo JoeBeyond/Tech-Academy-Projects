@@ -1,0 +1,7 @@
+alert("Hello, World!");
+function My_First_Function() {
+	var words = "Kiss me, I'm Irish!";
+	var result = words.fontcolor("green");
+	document.getElementById("Irish").innerHTML =
+	result;
+}
